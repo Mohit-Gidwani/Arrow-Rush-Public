@@ -22,18 +22,6 @@ Arrow Rush is a **snake-path logic puzzle** for Android. Each level presents a g
 
 It's deceptively simple, endlessly satisfying.
 
-```
-┌───────────────────────────┐
-│  →──┐   ↑               │
-│     │   │               │
-│  ←──┘   └──→           │
-│                          │
-│     ↓──────┐            │
-│            ↓            │
-└───────────────────────────┘
-   Tap the right arrow first!
-```
-
 ---
 
 ## ✨ Feature Highlights
