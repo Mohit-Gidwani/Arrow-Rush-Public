@@ -1,0 +1,4 @@
+# app-ads.txt for Arrow Rush
+# Published by: Elevate Apps Inc
+#
+# Format: google.com, pub-9709527650533891, DIRECT, f08c47fec0942fa0
