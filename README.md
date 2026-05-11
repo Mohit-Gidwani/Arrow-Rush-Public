@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/drawable/app_logo.png" alt="Arrow Rush Logo" width="200"/>
+<img src="Assets/App Logo.png" alt="Arrow Rush Logo" width="200"/>
 
 # ⬆️ Arrow Rush
 
@@ -310,20 +310,6 @@ Arrow-game/
 - Android Studio Hedgehog or later
 - JDK 17+
 - Android SDK 35
-
-### Build & Run
-
-```bash
-# Clone the repo
-git clone https://github.com/Mohit-Gidwani/Arrow-game.git
-cd Arrow-game
-
-# Open in Android Studio, or build from CLI:
-./gradlew assembleDebug
-
-# Install on connected device
-./gradlew installDebug
-```
 
 ### Regenerate Sound Effects
 
