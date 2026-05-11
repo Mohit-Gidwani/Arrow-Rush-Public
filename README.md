@@ -337,7 +337,6 @@ Arrow Rush is **privacy-first by design**:
 
 **Elevate Apps Inc**
 📧 [ArrowsRush.support@gmail.com](mailto:ArrowsRush.support@gmail.com)
-📸 [@arrowrushapp](https://instagram.com/arrowrushapp)
 
 ---
 
