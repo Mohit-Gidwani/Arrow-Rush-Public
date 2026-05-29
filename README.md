@@ -2,7 +2,7 @@
 
 <img src="Assets/App Logo.png" alt="Arrow Rush Logo" width="200"/>
 
-# ⬆️ Arrow Rush
+# ⬆️ Arrow Burst
 
 ### *A minimalist logic puzzle game — 456 handcrafted levels, zero filler.*
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 What is Arrow Rush?
+## 🎯 What is Arrow Burst?
 
 Arrow Rush is a **snake-path logic puzzle** for Android. Each level presents a grid of interlocked arrows — every arrow is a "snake" that can only fly off the board if its escape lane is clear. Your job: figure out the right **order** to tap them.
 
